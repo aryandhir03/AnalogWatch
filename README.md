@@ -1,1 +1,1 @@
-# AnalogWatch
+To create an analog watch interface, the provided HTML file includes the necessary structure with clock elements and a switch button. The JavaScript functionality for the watch is linked in the script tag at the end of the body. Additional styling can be applied through the linked CSS file "style.css". For further details or instructions, refer to the README file associated with this project.
